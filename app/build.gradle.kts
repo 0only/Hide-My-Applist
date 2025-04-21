@@ -22,7 +22,7 @@ android {
     namespace = "com.tsng.hidemyapplist"
 
     defaultConfig {
-        applicationId = "com.deepseek.chat"
+        applicationId = "com.hmaoonly.chat"
     }
     buildFeatures {
         buildConfig = true
